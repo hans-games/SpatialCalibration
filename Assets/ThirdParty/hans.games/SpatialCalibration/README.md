@@ -27,6 +27,6 @@ Unused Uuids' enabled on the Anchor Manager component, any previously saved Uuid
 ---
 
 1. Open the SpatialCalibrationSampleScene to get an example of how to handle the anchor creation for each headset.
-2. 
+2. After creating the anchors, add the CalibratedOrigin prefab to any scene that needs a shared origin.
 
 
