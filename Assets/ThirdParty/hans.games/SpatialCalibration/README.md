@@ -8,7 +8,7 @@ requiring a little more setup in each space, should allow for a shared world ori
 ## Install
 
 1. Setup a Unity Project with the Meta XR All-in-one package
-1. Download the [latest release](/releases/latest) 
+1. Download the [latest release](https://github.com/hans-lv/SpatialCalibration/releases/latest) 
 1. Drag into your Unity Project
 
 ## How to use
@@ -27,6 +27,6 @@ Unused Uuids' enabled on the Anchor Manager component, any previously saved Uuid
 ---
 
 1. Open the SpatialCalibrationSampleScene to get an example of how to handle the anchor creation for each headset.
-2. 
+2. After creating the anchors, add the CalibratedOrigin prefab to any scene that needs a shared origin.
 
 
